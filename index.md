@@ -17,3 +17,7 @@ public class SortExample {
         System.out.println(Arrays.toString(numbers));
     }
 }
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
