@@ -6,6 +6,12 @@ I honored my skills in developing single page applications using jenkins, angula
 I am highly proficient in backend technology especially in Java
 
 
+//create a task list
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 //Markdown for a code
 ```java
 import java.util.Arrays;
@@ -17,7 +23,5 @@ public class SortExample {
         System.out.println(Arrays.toString(numbers));
     }
 }
+```
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
